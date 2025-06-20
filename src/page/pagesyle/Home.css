@@ -1,0 +1,13 @@
+.home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.card{
+    background-color: gray;
+    padding: 2rem;
+    border-radius: 10px;
+}
